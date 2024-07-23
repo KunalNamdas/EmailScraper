@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+tldextract
+fake_useragent
+colorama

@@ -1,0 +1,136 @@
+2024-07-21 18:46:26,838 - DEBUG - Starting new HTTP connection (1): vulnweb.com:80
+2024-07-21 18:46:27,686 - DEBUG - http://vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-21 18:46:27,686 - DEBUG - Attempting to acquire lock 2160877011408 on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-21 18:46:27,686 - DEBUG - Lock 2160877011408 acquired on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-21 18:46:27,696 - DEBUG - Attempting to release lock 2160877011408 on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-21 18:46:27,703 - DEBUG - Lock 2160877011408 released on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-21 18:46:37,742 - DEBUG - Starting new HTTP connection (1): testhtml5.vulnweb.com:80
+2024-07-21 18:46:38,614 - DEBUG - http://testhtml5.vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-21 18:46:41,804 - DEBUG - Starting new HTTP connection (1): testphp.vulnweb.com:80
+2024-07-21 18:46:42,725 - DEBUG - http://testphp.vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-21 18:46:42,742 - DEBUG - Starting new HTTP connection (1): testasp.vulnweb.com:80
+2024-07-21 18:46:43,532 - DEBUG - http://testasp.vulnweb.com:80 "GET / HTTP/11" 200 3538
+2024-07-21 18:46:43,547 - DEBUG - Starting new HTTP connection (1): testaspnet.vulnweb.com:80
+2024-07-21 18:46:44,352 - DEBUG - http://testaspnet.vulnweb.com:80 "GET / HTTP/11" 500 10347
+2024-07-21 18:46:44,763 - ERROR - Request failed: 500 Server Error: Internal Server Error for url: http://testaspnet.vulnweb.com/
+2024-07-21 18:46:44,769 - DEBUG - Starting new HTTP connection (1): rest.vulnweb.com:80
+2024-07-21 18:46:45,772 - DEBUG - http://rest.vulnweb.com:80 "GET / HTTP/11" 200 1107
+2024-07-21 18:46:47,792 - DEBUG - Starting new HTTP connection (1): vulnweb.com:80
+2024-07-21 18:46:48,654 - DEBUG - http://vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-21 18:46:58,664 - INFO - Found emails: {'wvs@acunetix.com'}
+2024-07-21 18:46:58,665 - INFO - Emails saved to emails.txt
+2024-07-21 18:49:55,477 - INFO - Program terminated successfully.
+2024-07-21 18:52:38,503 - INFO - Program terminated successfully.
+2024-07-21 18:54:02,912 - INFO - Program terminated successfully.
+2024-07-21 18:54:31,791 - INFO - Program terminated successfully.
+2024-07-21 18:54:37,525 - INFO - Program terminated successfully.
+2024-07-21 18:54:40,917 - INFO - Program terminated successfully.
+2024-07-21 18:54:56,858 - INFO - Program terminated successfully.
+2024-07-21 18:57:41,095 - INFO - Program terminated successfully.
+2024-07-21 18:58:16,930 - INFO - Program terminated successfully.
+2024-07-21 18:58:37,111 - INFO - Program terminated successfully.
+2024-07-21 18:58:53,826 - DEBUG - Starting new HTTP connection (1): vulnweb.com:80
+2024-07-21 18:58:54,568 - DEBUG - http://vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-21 18:58:54,569 - DEBUG - Attempting to acquire lock 1579908912752 on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-21 18:58:54,569 - DEBUG - Lock 1579908912752 acquired on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-21 18:58:54,569 - DEBUG - Attempting to release lock 1579908912752 on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-21 18:58:54,569 - DEBUG - Lock 1579908912752 released on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-21 18:59:04,599 - DEBUG - Starting new HTTP connection (1): testhtml5.vulnweb.com:80
+2024-07-21 18:59:05,526 - DEBUG - http://testhtml5.vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-21 18:59:05,528 - DEBUG - Starting new HTTP connection (1): testphp.vulnweb.com:80
+2024-07-21 18:59:06,447 - DEBUG - http://testphp.vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-21 18:59:06,453 - DEBUG - Starting new HTTP connection (1): testasp.vulnweb.com:80
+2024-07-21 18:59:07,371 - DEBUG - http://testasp.vulnweb.com:80 "GET / HTTP/11" 200 3538
+2024-07-21 18:59:07,385 - DEBUG - Starting new HTTP connection (1): testaspnet.vulnweb.com:80
+2024-07-21 18:59:08,291 - DEBUG - http://testaspnet.vulnweb.com:80 "GET / HTTP/11" 500 10347
+2024-07-21 18:59:10,958 - ERROR - Request failed: 500 Server Error: Internal Server Error for url: http://testaspnet.vulnweb.com/
+2024-07-21 18:59:10,961 - DEBUG - Starting new HTTP connection (1): rest.vulnweb.com:80
+2024-07-21 18:59:11,874 - DEBUG - http://rest.vulnweb.com:80 "GET / HTTP/11" 200 1107
+2024-07-21 18:59:13,880 - DEBUG - Starting new HTTP connection (1): vulnweb.com:80
+2024-07-21 18:59:14,843 - DEBUG - http://vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-21 18:59:24,880 - INFO - Found emails: {'wvs@acunetix.com'}
+2024-07-21 18:59:24,893 - INFO - Emails saved to emails.txt
+2024-07-21 18:59:42,322 - INFO - Program terminated successfully.
+2024-07-22 08:15:35,401 - DEBUG - Starting new HTTP connection (1): vulnweb.com:80
+2024-07-22 08:15:36,918 - DEBUG - http://vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-22 08:15:36,934 - DEBUG - Attempting to acquire lock 2046677523712 on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-22 08:15:36,934 - DEBUG - Lock 2046677523712 acquired on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-22 08:15:36,934 - DEBUG - Attempting to release lock 2046677523712 on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-22 08:15:36,934 - DEBUG - Lock 2046677523712 released on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-22 08:15:46,974 - DEBUG - Starting new HTTP connection (1): testhtml5.vulnweb.com:80
+2024-07-22 08:15:48,328 - DEBUG - http://testhtml5.vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-22 08:15:48,343 - DEBUG - Starting new HTTP connection (1): testphp.vulnweb.com:80
+2024-07-22 08:15:49,412 - DEBUG - http://testphp.vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-22 08:15:49,431 - DEBUG - Starting new HTTP connection (1): testasp.vulnweb.com:80
+2024-07-22 08:15:51,452 - DEBUG - http://testasp.vulnweb.com:80 "GET / HTTP/11" 200 3538
+2024-07-22 08:15:51,469 - DEBUG - Starting new HTTP connection (1): testaspnet.vulnweb.com:80
+2024-07-22 08:15:52,693 - DEBUG - http://testaspnet.vulnweb.com:80 "GET / HTTP/11" 500 10347
+2024-07-22 08:15:53,002 - ERROR - Request failed: 500 Server Error: Internal Server Error for url: http://testaspnet.vulnweb.com/
+2024-07-22 08:15:53,003 - DEBUG - Starting new HTTP connection (1): rest.vulnweb.com:80
+2024-07-22 08:15:54,224 - DEBUG - http://rest.vulnweb.com:80 "GET / HTTP/11" 200 1107
+2024-07-22 08:15:56,234 - DEBUG - Starting new HTTP connection (1): vulnweb.com:80
+2024-07-22 08:15:56,999 - DEBUG - http://vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-22 08:16:07,009 - INFO - Found emails: {'wvs@acunetix.com'}
+2024-07-22 08:16:07,010 - INFO - Emails saved to emails.txt
+2024-07-23 15:45:06,753 - INFO - Program terminated successfully.
+2024-07-23 15:45:10,755 - INFO - Program terminated successfully.
+2024-07-23 15:45:13,557 - INFO - Program terminated successfully.
+2024-07-23 15:45:27,188 - INFO - Program terminated successfully.
+2024-07-23 15:45:45,536 - INFO - Program terminated successfully.
+2024-07-23 15:45:52,578 - INFO - Program terminated successfully.
+2024-07-23 15:45:56,499 - INFO - Program terminated successfully.
+2024-07-23 15:45:59,790 - INFO - Program terminated successfully.
+2024-07-23 15:46:02,087 - INFO - Program terminated successfully.
+2024-07-23 15:46:04,271 - INFO - Program terminated successfully.
+2024-07-23 15:46:20,930 - DEBUG - Starting new HTTP connection (1): vulnweb.com:80
+2024-07-23 15:46:22,143 - DEBUG - http://vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-23 15:46:22,143 - DEBUG - Attempting to acquire lock 1767926707312 on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-23 15:46:22,155 - DEBUG - Lock 1767926707312 acquired on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-23 15:46:22,155 - DEBUG - Attempting to release lock 1767926707312 on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-23 15:46:22,155 - DEBUG - Lock 1767926707312 released on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-23 15:46:32,195 - DEBUG - Starting new HTTP connection (1): testhtml5.vulnweb.com:80
+2024-07-23 15:46:33,502 - DEBUG - http://testhtml5.vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-23 15:46:33,502 - DEBUG - Starting new HTTP connection (1): testphp.vulnweb.com:80
+2024-07-23 15:46:34,742 - DEBUG - http://testphp.vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-23 15:46:34,757 - DEBUG - Starting new HTTP connection (1): testasp.vulnweb.com:80
+2024-07-23 15:46:36,063 - DEBUG - http://testasp.vulnweb.com:80 "GET / HTTP/11" 200 3539
+2024-07-23 15:46:36,066 - DEBUG - Starting new HTTP connection (1): testaspnet.vulnweb.com:80
+2024-07-23 15:46:38,115 - DEBUG - http://testaspnet.vulnweb.com:80 "GET / HTTP/11" 500 10347
+2024-07-23 15:46:38,527 - ERROR - Request failed: 500 Server Error: Internal Server Error for url: http://testaspnet.vulnweb.com/
+2024-07-23 15:46:38,527 - DEBUG - Starting new HTTP connection (1): rest.vulnweb.com:80
+2024-07-23 15:46:39,543 - DEBUG - http://rest.vulnweb.com:80 "GET / HTTP/11" 200 1107
+2024-07-23 15:46:41,550 - DEBUG - Starting new HTTP connection (1): vulnweb.com:80
+2024-07-23 15:46:42,513 - DEBUG - http://vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-23 15:46:52,522 - INFO - Found emails: {'wvs@acunetix.com'}
+2024-07-23 15:46:52,525 - INFO - Emails saved to emails.txt
+2024-07-23 15:49:27,897 - INFO - Program terminated successfully.
+2024-07-23 15:49:32,807 - INFO - Program terminated successfully.
+2024-07-23 15:50:59,466 - INFO - Program terminated successfully.
+2024-07-23 15:51:32,493 - INFO - Program terminated successfully.
+2024-07-23 15:52:40,438 - INFO - Program terminated successfully.
+2024-07-23 15:52:52,055 - INFO - Program terminated successfully.
+2024-07-23 15:52:54,415 - INFO - Program terminated successfully.
+2024-07-23 15:52:56,332 - INFO - Program terminated successfully.
+2024-07-23 15:52:58,175 - INFO - Program terminated successfully.
+2024-07-23 15:52:59,741 - INFO - Program terminated successfully.
+2024-07-23 15:53:09,855 - DEBUG - Starting new HTTP connection (1): vulnweb.com:80
+2024-07-23 15:53:11,225 - DEBUG - http://vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-23 15:53:11,232 - DEBUG - Attempting to acquire lock 2477141499472 on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-23 15:53:11,232 - DEBUG - Lock 2477141499472 acquired on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-23 15:53:11,232 - DEBUG - Attempting to release lock 2477141499472 on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-23 15:53:11,232 - DEBUG - Lock 2477141499472 released on C:\Users\vyank\AppData\Local\Programs\Python\Python312\Lib\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2024-07-23 15:53:21,276 - DEBUG - Starting new HTTP connection (1): testhtml5.vulnweb.com:80
+2024-07-23 15:53:22,078 - DEBUG - http://testhtml5.vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-23 15:53:22,088 - DEBUG - Starting new HTTP connection (1): testphp.vulnweb.com:80
+2024-07-23 15:53:22,797 - DEBUG - http://testphp.vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-23 15:53:22,822 - DEBUG - Starting new HTTP connection (1): testasp.vulnweb.com:80
+2024-07-23 15:53:24,741 - DEBUG - http://testasp.vulnweb.com:80 "GET / HTTP/11" 200 3541
+2024-07-23 15:53:24,753 - DEBUG - Starting new HTTP connection (1): testaspnet.vulnweb.com:80
+2024-07-23 15:53:25,759 - DEBUG - http://testaspnet.vulnweb.com:80 "GET / HTTP/11" 500 10347
+2024-07-23 15:53:26,178 - ERROR - Request failed: 500 Server Error: Internal Server Error for url: http://testaspnet.vulnweb.com/
+2024-07-23 15:53:26,179 - DEBUG - Starting new HTTP connection (1): rest.vulnweb.com:80
+2024-07-23 15:53:26,993 - DEBUG - http://rest.vulnweb.com:80 "GET / HTTP/11" 200 1107
+2024-07-23 15:53:28,999 - DEBUG - Starting new HTTP connection (1): vulnweb.com:80
+2024-07-23 15:53:29,859 - DEBUG - http://vulnweb.com:80 "GET / HTTP/11" 200 None
+2024-07-23 15:53:39,865 - INFO - Found emails: {'wvs@acunetix.com'}
+2024-07-23 15:53:39,870 - INFO - Emails saved to emails.txt
